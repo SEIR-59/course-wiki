@@ -2,7 +2,7 @@
 
 # SEIR Course Wiki 
 
-This is an open-source Wiki with information related to course material. Click on the Wiki tab above to get started! 
+This is an open-source Wiki with information related to course material. Click on the [Wiki tab](../../wiki) above to get started! 
 
 ## Licensing
 
